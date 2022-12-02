@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adel Amgad</h1>
 
-<!-- / -->I am a Computer Science Fresh Graduate from Faculty of Computers & Information at Suez University
-- 🔭 I’m currently  a **`Computer Science Senior student at Faculty of Computers & Information at Ain Shams University`**
+- 🔭 I’m currently  a **`Computer Science Senior student 
+    at Faculty of Computers & Information at Ain Shams University`**
 
 - 📫 How to reach me **polaamgad288@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1kbjtSYr9VGW5TiaUtpvCzCluo-D0ROUE/view?usp=sharing](https://drive.google.com/file/d/19C9FthYY8mbEmVuiLI5M20DrLnl2yURO/view))
-
+- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/19C9FthYY8mbEmVuiLI5M20DrLnl2yURO/view?usp=sharing).
 - 🐼 Doing my best 
 
 
@@ -24,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=polaamgad88&show_icons=true&locale=en" alt="polaamgad88" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polaamgad88&" alt="polaamgad88" /></p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=polaamgad88&label=Profile%20views&color=0e75b6&style=flat" alt="polaamgad88" /> </p>
+
