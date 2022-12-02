@@ -23,6 +23,5 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=polaamgad88&label=Profile%20views&color=0e75b6&style=flat" alt="polaamgad88" /> </p>
 
 
