@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adel Amgad</h1>
 
-- 🔭 I’m currently  a **`Computer Science Senior student 
-    at Faculty of Computers & Information at Ain Shams University`**
+- 🔭 I’m currently  a **`Computer Science Senior student at Faculty of Computers & Information at Ain Shams University`**
 
 - 📫 How to reach me **polaamgad288@gmail.com**
 
