@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Adel Amgad</h1>
 
-- 🔭 Am  a **`Computer Science Graduate `**
+- 🔭  **`Computer Science Graduate `**
 
 - 📫 How to reach me **polaamgad288@gmail.com**
 
