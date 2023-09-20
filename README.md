@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **polaamgad288@gmail.com**
 
-- 🐼 Doing my best 
 
 
 <h3 align="left">Connect with me:</h3>
