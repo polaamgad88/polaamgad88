@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Adel Amgad</h1>
 
-- 🔭  **`DevOps Engineer `**
-- 🔭  **`Web Developer`**
-- 🔭  **`Computer Science Graduate `**
-- 📫 How to reach me **polaamgad288@gmail.com**
+-  **`DevOps Engineer `**
+-  **`Web Developer`**
+-  **`Computer Science Graduate `**
+-  How to reach me **polaamgad288@gmail.com** , ** <a href="https://linkedin.com/in/adelamgad8" target="blank"> **
 
 
 
